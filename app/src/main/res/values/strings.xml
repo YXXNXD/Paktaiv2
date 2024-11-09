@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Paktaiv2</string>
+    <!-- เพิ่มข้อความใหม่ได้ตามตัวอย่างด้านล่างนี้ -->
+    <string name="welcome_message">Welcome to Paktaiv2</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
